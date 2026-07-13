@@ -1,0 +1,473 @@
+Age,Gender,Disease,Fever,Cough,Fatigue,Difficulty Breathing,Blood Pressure,Cholesterol Level,Customer satisfaction mean,Check up appointment,Time waiting,Admin procedures,Hygiene and cleaning,Time of appointment,Quality/experience dr.,Specialists avaliable,Communication with dr,Exact diagnosis,Modern equipment,friendly health care workers,lab services,avaliablity of drugs,waiting rooms,hospital rooms quality,"parking, playing rooms, caffes"
+19,Female,Migraine,Yes,No,Yes,Yes,High,Normal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+25,Female,Migraine,No,Yes,Yes,No,Normal,Normal,1.4375,2,1,2,1,2,2,1,2,1,2,1,1,1,1,2,1
+25,Female,Eczema,No,Yes,Yes,No,Normal,Normal,2.5,1,1,2,2,2,4,4,4,4,1,4,4,1,2,2,2
+25,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,2.3125,2,4,1,1,2,4,1,1,4,1,1,4,5,4,1,1
+25,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,3.0625,4,1,1,2,1,5,5,5,5,2,5,5,5,1,1,1
+25,Female,Eczema,Yes,No,No,No,Normal,Normal,2.6875,2,3,4,1,1,4,2,3,3,3,3,4,2,3,2,3
+25,Female,Migraine,Yes,Yes,Yes,Yes,Normal,Normal,2.5625,3,3,3,3,3,2,2,2,2,2,2,2,4,2,3,3
+25,Female,Migraine,Yes,Yes,Yes,Yes,Normal,Normal,1.8125,1,1,1,1,1,1,2,4,4,1,4,4,1,1,1,1
+28,Female,Hypothyroidism,No,Yes,No,No,Normal,Normal,2.75,1,3,3,3,3,1,3,3,1,3,3,5,3,3,3,3
+28,Female,Hypothyroidism,No,Yes,No,No,Normal,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+28,Male,Asthma,Yes,No,No,Yes,High,Normal,1.8125,1,1,1,3,1,4,1,1,4,1,1,1,2,2,2,3
+29,Female,Asthma,No,Yes,Yes,No,Normal,High,1.9375,3,2,2,2,2,4,1,2,2,2,1,1,2,2,2,1
+29,Female,Migraine,No,Yes,No,No,Normal,High,2.5625,2,1,2,3,4,1,2,2,1,4,3,4,2,2,3,5
+29,Female,Migraine,No,No,No,No,Low,Normal,2.3125,4,1,1,1,1,4,4,4,4,2,2,1,1,3,2,2
+29,Male,Diabetes,No,No,No,No,Low,Normal,2.375,3,3,3,1,3,1,3,1,1,3,3,1,3,3,3,3
+29,Female,Kidney Cancer,No,Yes,No,No,Normal,Normal,2.625,3,3,3,3,3,1,2,3,3,1,3,3,2,3,3,3
+29,Female,Diabetes,Yes,No,No,No,High,Normal,2.5625,4,3,3,3,1,1,3,3,1,2,1,4,3,3,3,3
+29,Female,Stroke,No,Yes,Yes,Yes,High,High,2.375,1,1,2,3,2,4,1,4,4,1,5,4,1,2,1,2
+29,Male,Depression,Yes,Yes,Yes,Yes,High,Normal,2.125,2,4,1,3,2,1,1,1,1,4,1,4,2,2,2,3
+29,Female,Liver Cancer,Yes,Yes,Yes,Yes,Normal,Normal,2.4375,3,3,3,3,2,1,1,2,1,2,3,3,3,3,3,3
+29,Female,Stroke,Yes,Yes,Yes,Yes,Normal,Normal,2.1875,2,2,1,3,2,2,3,2,2,3,1,1,2,3,3,3
+29,Male,Cholera,Yes,Yes,Yes,No,High,High,4.6875,5,5,4,5,5,5,5,5,5,5,5,5,4,4,4,4
+30,Female,Dengue Fever,Yes,No,Yes,No,Normal,Normal,2.5,4,1,4,1,1,4,1,1,4,4,1,4,1,1,4,4
+30,Female,Dengue Fever,Yes,No,Yes,No,Normal,Normal,2.3125,4,1,2,1,1,2,2,2,3,4,2,2,2,3,3,3
+30,Male,Eczema,No,Yes,Yes,No,High,High,2.75,1,4,1,1,1,5,5,5,5,1,4,4,4,1,1,1
+30,Male,Kidney Cancer,Yes,Yes,Yes,No,High,High,3.3125,4,4,4,2,4,5,5,4,5,1,4,4,2,1,2,2
+30,Male,Stroke,Yes,Yes,Yes,Yes,High,Normal,2.3125,1,2,4,2,2,1,1,2,2,2,4,4,4,2,2,2
+30,Male,Kidney Cancer,No,No,Yes,No,Normal,Normal,1.875,3,3,3,2,2,1,2,2,1,2,1,1,1,2,2,2
+30,Female,Migraine,Yes,No,No,No,Normal,Normal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+30,Female,Migraine,No,Yes,Yes,No,Normal,Normal,3.625,4,1,4,4,4,5,5,5,4,4,5,5,5,1,1,1
+30,Male,Eczema,No,No,Yes,No,High,High,1.1875,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+30,Male,Sinusitis,No,Yes,Yes,No,Normal,Normal,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+30,Female,Eczema,Yes,Yes,No,No,Normal,Normal,2.625,1,4,1,1,1,5,4,4,5,4,1,1,5,2,1,2
+30,Female,Eczema,No,Yes,Yes,No,Normal,Normal,2.25,1,1,1,1,1,4,4,1,4,1,1,5,4,2,2,3
+30,Female,Asthma,Yes,Yes,No,Yes,Normal,Normal,1.75,1,1,2,2,1,1,1,4,1,1,4,4,1,1,2,1
+30,Female,Asthma,Yes,Yes,No,Yes,Normal,Normal,2.25,1,1,2,3,4,4,1,2,1,3,2,2,1,3,3,3
+30,Female,Asthma,Yes,Yes,Yes,Yes,Normal,Normal,1.875,4,4,1,2,4,1,1,1,1,1,2,4,1,1,1,1
+30,Female,Depression,No,No,Yes,No,High,High,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+30,Female,Bronchitis,Yes,Yes,No,Yes,Low,Normal,1.625,4,1,1,2,1,1,1,1,4,2,1,1,1,1,2,2
+30,Male,Bronchitis,Yes,Yes,Yes,Yes,High,High,2.5,2,3,3,3,3,2,2,2,1,3,3,2,2,3,3,3
+30,Male,Bronchitis,Yes,Yes,Yes,Yes,High,High,3.125,1,4,1,4,4,4,1,4,4,4,5,4,1,4,4,1
+30,Female,Eczema,No,No,Yes,Yes,Normal,Normal,2.3125,3,1,3,3,3,2,2,3,3,1,3,1,2,3,3,1
+30,Female,Liver Cancer,No,No,Yes,No,Normal,High,2.5,1,1,2,3,1,5,3,1,3,3,3,4,1,3,3,3
+30,Male,Eczema,Yes,No,No,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+30,Female,Hypothyroidism,No,No,Yes,No,High,High,5,5,5,5,6,5,5,5,5,5,5,5,5,4,5,5,5
+30,Male,Migraine,Yes,Yes,Yes,No,High,Normal,2.25,1,4,3,2,1,1,2,2,4,1,1,3,3,3,2,3
+30,Female,Migraine,Yes,Yes,Yes,Yes,Normal,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+30,Female,Hypothyroidism,No,No,Yes,No,High,High,2.375,4,4,4,2,1,5,1,4,1,2,1,1,1,4,1,2
+30,Female,Stroke,Yes,Yes,Yes,Yes,High,High,2.0625,1,1,1,4,1,1,1,3,1,1,3,5,1,3,3,3
+30,Female,Cholera,Yes,No,No,No,Normal,Normal,4.75,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5
+31,Male,Asthma,No,No,No,Yes,Normal,Low,3.0625,3,3,3,3,3,3,4,4,4,1,3,2,4,3,3,3
+31,Male,Osteoporosis,No,No,No,Yes,Low,Normal,2.4375,1,4,1,1,3,5,1,3,1,3,3,3,3,3,1,3
+31,Male,Migraine,Yes,No,Yes,Yes,High,High,2.375,3,2,3,3,2,3,2,2,3,2,3,1,4,2,2,1
+31,Female,Migraine,Yes,No,No,No,Normal,Normal,1.9375,1,1,2,2,2,4,1,2,1,2,2,4,4,1,1,1
+32,Female,Bronchitis,Yes,No,Yes,Yes,High,Normal,4,1,4,1,4,4,4,4,4,5,5,5,5,4,4,5,5
+35,Female,Asthma,No,No,Yes,No,Normal,Low,2,2,2,1,3,1,1,2,2,1,3,2,2,3,2,2,3
+35,Female,Asthma,No,Yes,Yes,Yes,Normal,High,2,2,2,2,2,2,2,3,2,2,2,2,1,2,2,2,2
+35,Female,Asthma,Yes,Yes,Yes,Yes,Normal,Normal,3.1875,2,2,5,5,5,1,2,4,2,2,5,2,2,4,4,4
+35,Female,Asthma,No,Yes,Yes,Yes,High,Normal,1.875,3,2,1,4,1,3,3,2,2,3,1,1,1,1,1,1
+35,Female,Asthma,No,Yes,Yes,Yes,High,Normal,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+35,Male,HIV/AIDS,No,No,Yes,No,Normal,Normal,2.1875,2,1,2,2,2,2,3,2,1,3,3,1,3,2,3,3
+35,Male,Depression,Yes,Yes,Yes,Yes,Normal,Normal,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+35,Male,Migraine,Yes,Yes,Yes,No,High,Normal,5.0625,5,5,5,5,5,5,5,5,5,5,6,5,5,5,5,5
+35,Male,Eczema,No,Yes,No,No,High,Normal,2.375,2,2,3,2,1,4,4,2,4,4,1,1,1,2,2,3
+35,Male,Asthma,No,No,Yes,No,High,High,1.9375,1,4,1,3,1,1,1,2,1,2,2,2,1,3,3,3
+35,Female,Hypothyroidism,Yes,Yes,Yes,No,High,Normal,1.6875,1,2,2,2,2,2,2,2,1,1,1,1,2,2,2,2
+35,Female,Hypothyroidism,Yes,Yes,Yes,No,Normal,Normal,2.5625,4,4,1,2,1,5,4,4,4,1,1,1,2,2,2,3
+35,Male,Depression,No,No,Yes,No,Normal,Normal,4.9375,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5
+35,Female,Bronchitis,Yes,Yes,Yes,Yes,Normal,Normal,2.125,2,1,2,3,2,2,2,1,1,2,3,3,1,3,3,3
+35,Female,Bronchitis,Yes,Yes,Yes,Yes,Normal,Normal,3.8125,1,1,1,4,4,5,5,5,5,1,4,5,5,5,5,5
+35,Female,Eczema,Yes,No,No,No,Normal,Low,3.0625,4,4,2,2,4,4,3,4,4,3,4,2,1,4,1,3
+35,Female,Eczema,No,Yes,Yes,No,Normal,High,2.5,5,4,1,1,1,5,4,4,4,3,1,1,1,1,2,2
+35,Female,Cholera,Yes,No,Yes,No,High,Normal,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+35,Female,Cholera,Yes,No,Yes,No,High,Normal,4.75,5,4,5,5,5,4,4,5,4,5,5,5,5,5,5,5
+35,Male,Cholera,No,Yes,Yes,No,High,High,3.625,1,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+35,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,2.75,1,4,4,2,2,3,3,2,3,5,3,3,3,2,2,2
+35,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,1.5,4,1,1,2,1,1,2,1,1,1,2,1,1,1,2,2
+35,Female,Cirrhosis,No,No,Yes,No,Normal,High,3.5,4,4,1,2,4,5,4,5,5,4,4,4,4,2,2,2
+35,Female,Conjunctivitis (Pink Eye),No,Yes,No,No,High,High,1.875,1,2,2,2,1,4,2,1,1,2,2,2,2,2,2,2
+35,Female,Depression,No,No,Yes,No,Normal,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+35,Male,Kidney Cancer,Yes,No,Yes,Yes,Low,High,2.4375,1,1,4,3,2,4,4,1,2,2,1,4,4,2,2,2
+35,Male,Hypothyroidism,Yes,Yes,Yes,No,High,High,2.625,1,4,1,2,1,1,1,1,4,2,4,4,4,4,4,4
+35,Male,Hypothyroidism,Yes,Yes,Yes,No,High,High,1.8125,1,1,2,2,1,4,1,1,4,1,4,1,1,2,1,2
+35,Male,Kidney Cancer,No,No,Yes,No,High,High,2.625,2,3,3,3,3,2,2,2,2,2,3,3,3,3,3,3
+35,Female,Liver Cancer,No,No,Yes,No,High,High,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+35,Male,HIV/AIDS,No,No,Yes,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+35,Male,Eczema,Yes,No,No,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+35,Male,Eczema,Yes,No,No,No,High,High,2.125,2,2,2,2,2,1,1,1,3,3,1,2,4,2,3,3
+35,Male,Migraine,No,Yes,Yes,No,High,High,2.4375,1,4,4,3,1,3,2,3,1,3,2,3,2,1,3,3
+35,Male,Migraine,Yes,No,No,No,High,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+35,Male,Diabetes,No,No,Yes,No,Normal,High,3.3125,1,4,4,1,5,6,4,5,4,4,1,4,4,1,2,3
+35,Male,Stroke,Yes,Yes,Yes,No,Normal,Low,2.25,1,1,1,1,3,2,3,3,1,2,5,3,2,2,3,3
+35,Female,Stroke,No,No,Yes,No,Normal,Low,1.5625,1,1,4,4,1,1,1,1,1,1,1,1,1,2,2,2
+35,Female,Spina Bifida,No,No,Yes,No,Normal,Normal,4.25,5,5,5,1,5,5,4,5,5,4,5,5,5,1,4,4
+35,Male,Eczema,No,No,Yes,No,High,High,1.5625,1,1,2,3,4,4,1,1,1,1,1,1,1,1,1,1
+35,Male,Eczema,Yes,No,No,No,High,High,4.5625,5,5,4,5,5,5,5,5,5,4,5,5,4,4,4,3
+35,Female,Cholera,Yes,No,Yes,No,Normal,High,2.5625,3,3,3,3,1,2,3,3,3,3,3,1,1,3,3,3
+38,Female,Asthma,No,Yes,No,No,Low,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+38,Female,Depression,No,No,No,No,Normal,High,3.0625,4,5,1,2,5,5,5,5,5,1,2,1,1,3,2,2
+38,Male,Kidney Cancer,No,No,No,No,Normal,Low,1.6875,1,1,1,2,1,1,1,1,4,2,2,2,2,2,2,2
+38,Male,Migraine,No,No,No,No,Normal,Normal,3.6875,5,4,4,4,4,4,4,4,4,4,4,4,1,1,4,4
+38,Female,Kidney Cancer,No,No,Yes,No,Low,Normal,3.375,4,4,4,1,4,5,4,4,5,1,1,4,4,4,1,4
+38,Female,Liver Cancer,Yes,Yes,No,No,High,Normal,2.5625,1,1,1,2,1,4,4,4,4,3,2,2,3,3,3,3
+38,Male,HIV/AIDS,No,Yes,No,Yes,Low,Normal,1.875,1,1,3,3,2,2,2,2,1,1,2,1,4,1,2,2
+38,Female,Osteoporosis,No,Yes,No,No,Normal,High,2,4,1,4,4,4,4,1,1,1,1,1,1,1,1,1,2
+38,Female,Stroke,Yes,Yes,No,No,High,Normal,2.6875,4,4,4,4,1,4,1,1,4,1,1,1,4,4,4,1
+38,Male,Depression,Yes,No,Yes,Yes,High,High,1.6875,5,1,1,2,1,1,2,1,1,2,2,1,1,2,2,2
+38,Male,Diabetes,Yes,No,Yes,Yes,High,Low,2.4375,2,2,4,3,2,4,2,3,2,1,2,4,4,1,2,1
+38,Male,Migraine,Yes,Yes,No,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+38,Male,Osteoporosis,Yes,Yes,Yes,No,High,High,2.3125,1,2,2,2,1,3,3,3,3,3,3,3,2,2,2,2
+38,Male,Bronchitis,Yes,Yes,Yes,Yes,Normal,Normal,2.9375,1,3,3,3,3,1,5,5,4,4,2,1,3,3,3,3
+39,Female,Klinefelter Syndrome,No,No,Yes,No,Normal,Normal,2.875,4,4,4,4,4,4,4,4,4,4,1,1,1,1,1,1
+40,Male,Eczema,No,No,Yes,No,Normal,Normal,2,2,2,2,3,2,2,2,2,1,1,1,1,1,4,3,3
+40,Male,Brain Tumor,No,No,Yes,No,Normal,Normal,4.25,1,1,4,5,4,5,5,5,5,5,5,4,4,5,5,5
+40,Female,Bronchitis,No,Yes,No,Yes,Normal,Normal,3.5625,5,4,3,4,4,4,1,4,5,1,4,4,4,4,3,3
+40,Male,Cystic Fibrosis,No,No,Yes,Yes,High,High,2.1875,2,1,1,2,1,1,4,1,4,4,4,2,2,2,2,2
+40,Female,Diabetes,Yes,No,No,No,High,High,2.875,4,1,1,2,1,5,2,5,4,1,4,5,5,1,3,2
+40,Male,HIV/AIDS,No,No,Yes,No,High,Normal,2.25,1,2,1,3,1,1,4,1,4,1,2,2,4,3,3,3
+40,Male,Osteoporosis,No,No,Yes,No,High,Normal,2.125,2,2,2,3,1,4,1,2,1,2,2,2,1,3,3,3
+40,Female,Rabies,Yes,Yes,No,No,High,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+40,Female,Rabies,Yes,Yes,No,No,High,Normal,2.625,4,4,2,4,1,4,1,1,4,4,1,4,2,1,4,1
+40,Male,Asthma,Yes,No,Yes,No,Low,Normal,2.9375,1,4,1,2,4,4,2,5,5,2,3,5,2,2,2,3
+40,Female,Asthma,Yes,Yes,No,Yes,Normal,Normal,2.875,3,1,3,3,1,4,4,4,4,4,3,2,1,3,3,3
+40,Female,Asthma,Yes,Yes,No,Yes,Normal,Normal,2.4375,2,3,2,3,3,3,3,1,2,2,2,2,2,3,3,3
+40,Male,Asthma,No,No,Yes,Yes,High,High,2,1,2,2,1,1,4,4,1,4,2,1,1,3,1,3,1
+40,Male,Asthma,Yes,No,Yes,Yes,Normal,High,2.625,1,1,1,3,1,1,2,4,4,4,4,4,4,4,3,1
+40,Male,Asthma,Yes,No,Yes,Yes,Normal,High,1.5,2,1,2,3,2,1,1,1,1,2,1,1,1,1,1,3
+40,Male,Chickenpox,No,Yes,No,No,Normal,High,4.25,4,1,4,5,5,1,4,4,5,5,5,5,5,5,5,5
+40,Male,Chickenpox,No,Yes,No,No,Normal,High,4,4,1,5,5,1,4,4,4,4,5,4,4,4,5,5,5
+40,Female,Asthma,No,No,Yes,No,High,High,1.625,1,2,1,4,2,1,2,1,1,1,2,1,3,2,1,1
+40,Female,Diabetes,No,No,Yes,No,High,High,2.5625,3,2,2,2,3,3,2,3,3,2,3,3,3,2,2,3
+40,Female,Fibromyalgia,No,No,Yes,No,High,High,3.3125,4,4,4,3,5,4,3,4,4,3,4,2,2,2,2,3
+40,Male,Kidney Cancer,Yes,Yes,Yes,No,High,High,1.9375,3,1,1,3,3,1,1,2,1,2,1,1,4,3,2,2
+40,Female,Stroke,No,No,Yes,No,Normal,Normal,1.8125,4,1,2,1,2,1,2,2,1,1,1,1,3,3,2,2
+40,Male,Hypothyroidism,No,No,Yes,No,High,High,1.3125,1,1,1,2,1,1,2,1,1,2,1,1,2,1,2,1
+40,Female,Hypothyroidism,No,No,Yes,No,High,High,2.25,1,2,2,3,4,1,2,2,2,3,2,4,1,2,2,3
+40,Female,Eczema,No,Yes,No,No,Normal,High,1.8125,4,1,2,2,2,1,1,1,1,2,2,1,2,2,2,3
+40,Female,Bronchitis,Yes,Yes,Yes,Yes,Normal,High,2.9375,4,4,4,4,4,4,1,1,4,2,4,4,1,2,1,3
+40,Male,Eczema,No,Yes,Yes,No,High,Normal,4.5625,5,5,5,3,5,5,5,5,4,4,5,5,5,5,4,3
+40,Male,Eczema,Yes,No,No,No,High,Normal,2.1875,3,2,3,3,2,2,2,2,2,2,2,2,2,2,2,2
+40,Female,Eczema,No,Yes,No,No,Normal,High,1.5625,1,1,4,4,4,1,1,1,1,1,1,1,1,1,1,1
+40,Male,Tuberculosis,Yes,Yes,Yes,Yes,High,High,2.75,4,2,2,4,4,4,4,4,1,2,3,1,2,2,2,3
+40,Male,Tuberculosis,Yes,Yes,Yes,Yes,High,High,2.5,3,1,1,1,1,4,1,2,4,4,1,4,4,1,4,4
+42,Male,Depression,No,No,No,No,Low,Normal,2.625,1,4,1,3,4,4,5,1,4,1,1,4,1,3,3,2
+42,Female,Migraine,Yes,Yes,No,No,High,High,2.5625,3,3,1,1,2,2,2,2,5,2,2,2,4,4,3,3
+42,Male,Depression,Yes,No,No,Yes,High,Normal,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+42,Female,Migraine,No,Yes,No,No,Normal,High,3.5625,4,3,1,4,4,5,5,5,4,4,5,5,3,1,2,2
+42,Female,Kidney Cancer,Yes,No,No,No,Normal,Normal,1.9375,4,1,4,2,2,1,1,2,1,3,3,1,1,2,1,2
+42,Male,Liver Cancer,Yes,No,Yes,Yes,Normal,Low,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+42,Female,HIV/AIDS,Yes,No,No,Yes,Normal,Normal,3.6875,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,1
+42,Male,Liver Cancer,Yes,No,Yes,Yes,Normal,Low,2.3125,1,1,2,2,1,3,3,3,3,2,3,1,3,3,3,3
+42,Male,Migraine,Yes,Yes,Yes,No,High,High,2.0625,1,2,2,3,2,1,2,2,1,2,3,2,1,3,3,3
+42,Male,Osteoporosis,No,No,Yes,No,Normal,Low,2.375,3,3,3,3,3,2,3,2,2,2,3,2,1,2,2,2
+42,Male,Stroke,Yes,No,Yes,No,Normal,Low,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+42,Female,Cholera,No,Yes,Yes,Yes,Normal,Low,3.0625,4,4,1,4,4,4,4,4,4,1,4,4,1,4,1,1
+42,Male,Diabetes,Yes,Yes,Yes,No,High,Normal,1.9375,1,2,3,2,2,1,1,2,1,3,3,2,2,2,2,2
+42,Female,Hypothyroidism,Yes,Yes,Yes,No,High,High,2.1875,2,2,2,2,2,3,3,2,2,2,2,2,3,2,2,2
+42,Female,Hypothyroidism,Yes,Yes,Yes,No,High,High,2.6875,3,2,3,3,3,2,3,3,1,3,3,2,3,3,3,3
+42,Female,Kidney Cancer,Yes,No,Yes,No,High,Low,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+43,Female,Bronchitis,No,Yes,Yes,Yes,High,Normal,1.75,1,1,2,2,1,1,1,1,4,1,2,1,1,2,4,3
+45,Male,Asthma,No,Yes,Yes,No,High,Normal,2.0625,1,2,2,3,1,1,3,3,2,2,2,1,1,3,3,3
+45,Male,Autism Spectrum Disorder (ASD),No,No,Yes,No,Normal,Normal,2.1875,2,2,3,2,2,2,2,2,2,2,3,3,2,2,2,2
+45,Male,Bronchitis,Yes,No,Yes,No,High,Normal,2.0625,2,3,3,2,1,1,2,1,1,2,2,2,2,3,3,3
+45,Female,Stroke,Yes,No,Yes,No,High,High,2.625,4,2,2,2,2,4,1,1,4,1,1,5,5,3,2,3
+45,Female,Stroke,Yes,No,Yes,No,High,High,2.75,3,3,3,3,3,3,3,3,1,1,3,3,3,3,3,3
+45,Male,Hypothyroidism,No,No,Yes,No,Normal,Normal,2.8125,3,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Male,Kidney Cancer,No,Yes,Yes,Yes,Normal,High,3.125,3,3,3,3,3,4,4,4,4,3,3,3,1,3,3,3
+45,Male,Kidney Cancer,Yes,Yes,No,No,Normal,High,2.5,3,3,1,3,3,4,3,4,1,1,2,2,2,2,3,3
+45,Male,Eczema,Yes,No,Yes,No,High,Normal,1.5625,1,1,1,2,2,2,1,1,1,1,1,1,3,2,2,3
+45,Female,Migraine,No,No,No,No,Low,Normal,2.4375,4,1,4,3,2,4,4,2,1,2,1,1,1,3,3,3
+45,Male,Kidney Cancer,No,No,Yes,No,Normal,Normal,2.25,1,1,1,1,1,4,2,1,1,2,4,4,4,4,4,1
+45,Male,Diabetes,No,Yes,Yes,Yes,Normal,Low,2.25,1,1,2,2,2,2,2,2,3,3,2,2,3,3,3,3
+45,Male,Bronchitis,Yes,No,No,No,Normal,Normal,2.125,3,1,1,2,2,4,2,2,1,3,2,2,1,2,3,3
+45,Male,Stroke,No,No,Yes,No,Normal,Normal,1.6875,1,1,1,2,1,3,1,2,3,2,2,1,1,2,2,2
+45,Male,Cholera,No,No,Yes,No,High,High,2.25,2,1,3,3,3,4,4,4,3,2,1,1,1,1,1,2
+45,Male,Cholera,No,No,Yes,No,High,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Female,Cholera,No,No,No,No,Low,Normal,4.9375,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4
+45,Female,Cholera,No,Yes,Yes,No,High,High,2.4375,1,3,3,3,3,1,2,2,3,3,3,2,1,3,3,3
+45,Female,Cholera,No,Yes,Yes,No,High,High,1.875,2,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2
+45,Male,Asthma,Yes,Yes,Yes,No,High,Normal,4.25,5,5,5,5,1,5,5,5,5,5,5,1,5,1,5,5
+45,Male,Depression,Yes,Yes,Yes,No,High,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,1.9375,1,1,2,2,2,4,2,2,1,2,3,1,1,2,2,3
+45,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,1.75,2,2,1,2,2,2,2,2,2,2,2,1,2,1,1,2
+45,Female,Cataracts,No,No,Yes,No,Normal,High,2.3125,1,2,1,2,1,1,2,4,4,1,4,1,4,4,4,1
+45,Female,Bronchitis,No,No,Yes,No,High,High,2.0625,1,2,2,3,2,1,2,1,1,3,3,1,2,3,3,3
+45,Female,Bronchitis,Yes,Yes,Yes,No,High,High,2.625,4,4,2,2,1,4,4,1,4,1,4,4,1,1,4,1
+45,Female,Depression,No,No,Yes,No,High,High,1.5,1,2,1,3,1,4,1,1,1,1,2,1,2,1,1,1
+45,Female,Diabetes,Yes,No,Yes,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+45,Male,Diabetes,No,Yes,Yes,No,Normal,High,1.6875,1,4,1,1,1,3,3,3,3,1,1,1,1,1,1,1
+45,Male,Hypothyroidism,Yes,No,Yes,No,Normal,High,2.6875,4,1,1,4,1,5,5,5,5,1,2,1,3,2,1,2
+45,Female,Hypothyroidism,No,No,Yes,No,High,High,2.625,4,1,1,1,4,4,4,4,4,3,1,2,3,2,2,2
+45,Female,HIV/AIDS,Yes,Yes,Yes,No,Normal,High,1.3125,1,1,2,3,1,1,1,1,1,1,1,1,1,1,2,2
+45,Female,Hypothyroidism,Yes,No,No,No,High,High,2.125,1,4,1,1,1,4,4,4,4,1,4,1,1,1,1,1
+45,Female,Hypothyroidism,Yes,No,No,No,High,High,2.4375,1,1,2,3,1,5,4,1,4,2,1,5,2,2,2,3
+45,Male,Osteoporosis,Yes,No,Yes,Yes,High,Normal,3.75,1,4,4,2,4,5,5,5,5,4,4,4,1,4,4,4
+45,Female,Osteoporosis,Yes,Yes,Yes,No,Normal,High,1.3125,1,1,1,1,1,1,2,1,1,1,2,1,1,2,2,2
+45,Female,Bronchitis,Yes,Yes,Yes,No,High,High,4.5625,4,4,4,5,5,5,4,5,5,5,5,5,4,4,4,5
+45,Male,Bronchitis,Yes,Yes,Yes,Yes,High,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Female,Scoliosis,No,No,No,No,High,High,2.4375,4,3,3,3,2,2,1,1,1,2,2,4,3,2,3,3
+45,Female,Sickle Cell Anemia,No,No,Yes,No,Normal,Normal,1.0625,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+45,Male,Cholera,No,No,Yes,No,Normal,High,2,1,1,1,1,1,1,2,1,4,1,1,4,4,3,3,3
+45,Male,Cholera,No,No,Yes,No,Normal,High,1.875,2,1,2,3,1,4,1,1,1,1,1,4,2,3,2,1
+48,Female,Hypothyroidism,No,No,No,No,High,High,2.875,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,3
+48,Male,Hypothyroidism,No,No,Yes,No,Normal,High,2.125,1,1,2,3,1,2,1,2,2,3,2,3,2,3,3,3
+48,Male,Hypothyroidism,No,No,Yes,No,Normal,High,1.5625,1,4,4,1,1,1,1,1,1,1,1,4,1,1,1,1
+50,Male,Asthma,Yes,No,No,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+50,Male,Alzheimer's Disease,No,No,Yes,No,Normal,Normal,3.625,3,5,3,5,5,5,3,1,5,3,3,3,5,3,3,3
+50,Male,Depression,No,No,Yes,No,Normal,Normal,2.75,2,1,4,1,4,4,1,4,4,1,4,4,1,1,4,4
+50,Female,Cholera,Yes,No,Yes,Yes,High,High,2.75,4,1,1,5,1,1,1,4,4,1,4,4,4,4,4,1
+50,Female,Cholera,Yes,No,Yes,Yes,High,High,1.625,1,2,1,3,1,1,2,1,2,2,2,1,2,1,1,3
+50,Male,Bronchitis,Yes,Yes,Yes,No,Normal,High,2.0625,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+50,Male,Bronchitis,No,No,Yes,No,Normal,High,2.0625,1,1,1,1,4,4,4,1,1,2,2,4,1,2,2,2
+50,Female,Depression,No,Yes,Yes,No,Low,Low,4.9375,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5
+50,Male,Diabetes,No,Yes,No,No,Normal,High,2.4375,4,1,1,1,1,5,4,5,4,4,1,4,1,1,1,1
+50,Male,Endometriosis,Yes,No,No,No,High,Normal,2.9375,4,4,4,4,4,4,2,2,2,2,2,2,2,3,3,3
+50,Female,Hypothyroidism,No,Yes,No,No,Normal,Low,1.375,1,1,1,3,1,1,1,1,1,1,1,1,2,2,2,2
+50,Male,Hypothyroidism,Yes,Yes,Yes,No,Normal,High,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+50,Male,Kidney Cancer,No,Yes,No,No,Low,High,1.8125,1,1,2,1,1,2,2,2,1,2,2,2,2,2,3,3
+50,Male,Kidney Cancer,No,Yes,No,Yes,Normal,Normal,1.875,4,2,2,1,2,1,2,2,2,2,1,1,2,2,2,2
+50,Male,Diabetes,No,Yes,No,No,Low,High,2,1,1,2,3,1,2,3,3,3,3,1,1,2,2,2,2
+50,Female,Alzheimer's Disease,No,Yes,No,No,Low,Normal,2.125,1,1,1,2,1,5,1,2,5,3,1,1,1,3,3,3
+50,Male,HIV/AIDS,Yes,Yes,Yes,No,Normal,Normal,1.9375,1,1,1,1,1,4,4,1,4,1,1,4,4,1,1,1
+50,Male,Sleep Apnea,Yes,No,Yes,Yes,High,High,3.4375,4,4,1,4,4,4,4,4,4,4,4,4,4,1,1,4
+50,Male,Cholera,Yes,Yes,No,Yes,High,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+50,Female,Asthma,Yes,Yes,Yes,Yes,Normal,High,3.1875,4,2,1,1,2,5,5,5,5,1,1,2,5,5,5,2
+50,Male,Bronchitis,Yes,Yes,Yes,Yes,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+50,Female,HIV/AIDS,No,No,Yes,No,High,High,2.875,4,2,3,2,2,4,4,4,1,2,2,4,4,3,2,3
+50,Male,Ebola Virus,Yes,Yes,Yes,Yes,Normal,Normal,3.6875,1,4,4,4,6,5,5,5,5,2,1,1,4,4,4,4
+50,Male,Ebola Virus,Yes,Yes,Yes,Yes,Normal,Normal,2.1875,2,2,3,2,1,1,1,2,1,5,1,2,3,3,3,3
+50,Female,Eczema,No,Yes,No,No,High,High,1.3125,1,1,2,1,1,1,1,1,1,2,2,2,1,2,1,1
+50,Female,Kidney Cancer,Yes,Yes,Yes,Yes,High,Normal,3.5,5,5,4,1,5,4,3,5,4,2,5,4,4,1,1,3
+50,Female,Klinefelter Syndrome,No,No,Yes,No,Normal,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+50,Male,Liver Cancer,No,Yes,Yes,Yes,High,High,3.625,4,4,4,4,4,4,4,4,4,1,4,4,4,4,4,1
+50,Male,Eczema,Yes,No,No,No,Normal,High,3.625,4,4,4,4,4,4,4,4,4,1,4,4,4,4,4,1
+50,Male,Eczema,Yes,No,No,No,Normal,High,2,1,1,2,2,2,2,2,2,2,2,4,1,2,2,2,3
+50,Female,Liver Cancer,No,No,Yes,No,High,High,1.4375,1,1,1,2,1,1,2,2,2,2,2,1,1,1,2,1
+50,Female,Bronchitis,No,No,Yes,Yes,High,High,2.5,3,1,1,3,3,3,2,3,3,3,3,3,2,2,2,3
+50,Male,Stroke,No,Yes,Yes,Yes,High,High,2.25,1,4,2,2,1,5,1,4,4,1,4,1,2,1,1,2
+50,Female,Eczema,No,Yes,Yes,No,Normal,High,3.1875,3,3,3,3,3,1,1,1,1,2,5,5,5,5,5,5
+52,Male,Hypothyroidism,Yes,Yes,No,No,Normal,Low,1.6875,3,2,1,1,2,1,2,2,1,3,2,1,1,1,1,3
+52,Male,Hypothyroidism,No,Yes,Yes,No,Normal,Normal,3.9375,5,5,5,5,5,4,5,5,1,4,4,1,2,4,4,4
+52,Male,Hypothyroidism,No,Yes,Yes,No,Normal,Normal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+55,Male,Kidney Cancer,Yes,No,Yes,No,Normal,Normal,2.3125,1,1,2,1,2,2,2,4,4,1,4,5,2,1,1,4
+55,Male,Bronchitis,No,No,Yes,Yes,High,High,4.875,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5
+55,Male,Bronchitis,Yes,Yes,Yes,Yes,High,Normal,2.5625,4,2,3,3,2,2,2,3,3,1,3,3,3,3,3,1
+55,Male,Migraine,Yes,No,Yes,Yes,Normal,Low,4.125,4,4,4,5,4,5,4,4,4,4,5,4,5,1,5,4
+55,Female,Diabetes,No,Yes,No,No,Normal,High,4.75,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5
+55,Male,HIV/AIDS,No,No,Yes,No,Normal,Normal,2.6875,1,3,4,3,3,3,3,3,3,3,2,2,2,2,2,4
+55,Female,HIV/AIDS,Yes,No,No,No,High,High,1.75,3,2,1,2,1,3,1,1,1,1,1,3,2,2,2,2
+55,Female,HIV/AIDS,Yes,No,No,No,High,High,3.4375,4,4,4,4,4,1,1,4,1,4,4,4,4,4,4,4
+55,Female,Hypothyroidism,No,Yes,No,No,Normal,Low,2.0625,2,2,2,2,1,1,2,2,2,2,3,2,2,2,3,3
+55,Male,HIV/AIDS,No,Yes,Yes,No,High,Low,3.25,4,4,2,1,1,5,5,5,5,3,4,4,1,2,3,3
+55,Male,Liver Cancer,No,No,Yes,No,High,High,3.25,4,4,4,1,4,4,1,4,4,4,4,4,4,4,1,1
+55,Female,Migraine,No,Yes,Yes,Yes,Normal,Low,2.4375,1,1,1,2,3,1,2,4,4,1,5,5,4,1,1,3
+55,Male,Osteoporosis,No,No,Yes,Yes,High,Normal,2.25,1,4,4,1,1,1,2,5,4,2,1,2,2,2,1,3
+55,Female,Migraine,No,No,Yes,No,Normal,Low,2.25,2,2,2,3,4,1,1,2,1,3,3,1,3,3,2,3
+55,Female,Migraine,No,No,Yes,No,Normal,Low,4.5625,5,4,5,5,4,5,4,5,5,5,5,5,2,5,5,4
+55,Female,Depression,Yes,Yes,No,No,Normal,Low,2.875,4,1,2,2,5,2,3,3,1,3,5,4,3,1,4,3
+55,Female,Asthma,No,No,Yes,No,Normal,Normal,4.125,5,5,5,4,5,5,1,5,4,4,4,5,5,4,4,1
+55,Female,Asthma,No,No,Yes,No,Normal,Normal,4.0625,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4
+55,Female,Alzheimer's Disease,No,No,No,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+55,Male,Hypothyroidism,Yes,No,Yes,No,High,Normal,4.3125,5,5,5,5,4,5,3,5,5,1,5,5,4,4,4,4
+55,Female,Hypothyroidism,No,No,Yes,No,High,High,2.4375,4,2,1,3,1,2,2,3,4,4,1,1,5,2,2,2
+55,Female,Osteoporosis,Yes,Yes,No,No,High,High,3.1875,4,1,4,4,4,4,2,5,4,1,4,4,2,4,1,3
+55,Male,Osteoporosis,Yes,No,Yes,Yes,High,Low,4.5625,5,4,5,5,5,4,4,4,4,4,5,5,5,5,5,4
+55,Female,Osteoporosis,No,Yes,Yes,No,Normal,Normal,2.125,4,1,1,1,4,1,1,1,1,2,4,2,5,2,1,3
+55,Female,Osteoporosis,Yes,No,Yes,No,Normal,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+55,Female,Osteoporosis,Yes,No,Yes,No,Normal,Normal,4.375,4,5,5,5,5,4,4,4,4,4,4,4,5,5,4,4
+55,Female,Kidney Cancer,Yes,Yes,No,No,Normal,Normal,4.25,4,4,4,4,1,4,4,4,5,5,5,5,5,5,5,4
+55,Female,Kidney Cancer,No,Yes,Yes,No,High,High,2.5625,2,3,1,3,1,2,1,3,3,2,3,4,4,3,3,3
+55,Male,Typhoid Fever,No,Yes,No,No,Normal,Low,2.9375,4,2,1,3,3,1,5,5,4,2,5,1,2,3,3,3
+55,Male,Typhoid Fever,No,Yes,No,No,Normal,Low,1.6875,2,1,1,1,2,2,2,2,1,2,2,1,3,2,2,1
+56,Male,Migraine,Yes,Yes,Yes,Yes,High,High,2.3125,4,1,1,3,1,5,4,1,2,1,2,4,1,2,3,2
+57,Male,Bronchitis,Yes,Yes,No,Yes,Normal,High,1.9375,2,1,3,3,4,4,1,1,1,1,1,1,1,1,3,3
+60,Male,Liver Cancer,No,No,Yes,No,High,High,2.5625,3,3,2,3,2,3,2,2,3,3,2,3,2,3,3,2
+60,Male,Asthma,Yes,Yes,No,No,High,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+60,Male,Asthma,Yes,Yes,No,No,High,High,4.375,4,4,5,5,5,4,1,5,4,5,5,6,5,4,4,4
+60,Male,Hypothyroidism,No,No,Yes,No,Normal,Normal,2.0625,4,4,1,3,1,1,4,1,1,2,2,1,2,1,2,3
+60,Female,Measles,Yes,Yes,No,No,High,Normal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+60,Female,Measles,Yes,Yes,No,No,High,Normal,2.125,2,2,2,3,1,2,2,2,2,1,3,2,2,2,3,3
+60,Female,Osteoporosis,No,Yes,No,Yes,Normal,Normal,1.8125,1,1,1,1,1,2,1,3,1,2,3,1,4,2,2,3
+60,Male,Osteoporosis,No,No,Yes,No,Normal,Normal,2.6875,3,3,1,3,3,2,2,2,3,3,3,3,3,3,3,3
+60,Male,Osteoporosis,Yes,No,No,No,High,High,4.25,5,1,1,5,4,5,5,5,4,4,4,5,5,5,5,5
+60,Male,Osteoporosis,No,Yes,No,No,High,High,3.1875,4,4,1,4,5,5,4,4,5,1,5,2,4,1,1,1
+60,Male,Osteoporosis,No,Yes,No,No,High,High,1.125,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+60,Male,Eczema,Yes,Yes,Yes,No,Normal,Normal,1.875,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+60,Female,Asthma,Yes,Yes,Yes,Yes,High,High,2.875,1,1,4,1,4,4,4,4,4,1,5,4,1,4,1,3
+60,Female,Kidney Cancer,No,No,Yes,No,Normal,High,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+60,Female,Alzheimer's Disease,No,No,Yes,No,Normal,Normal,2.125,1,2,1,2,1,4,4,4,4,1,4,1,1,1,1,2
+60,Male,Alzheimer's Disease,No,Yes,Yes,No,Normal,Low,1.9375,2,2,1,3,1,4,1,4,4,1,1,1,1,2,2,1
+60,Male,Alzheimer's Disease,No,Yes,Yes,No,Normal,Low,2,1,1,2,2,1,4,1,4,4,2,1,1,1,2,3,2
+60,Female,Hypothyroidism,No,No,Yes,No,High,Normal,4.25,4,4,5,5,4,4,4,4,1,5,4,5,5,4,5,5
+60,Male,Hypothyroidism,Yes,No,Yes,No,High,Normal,2.4375,3,3,3,1,2,3,3,3,3,1,3,3,3,3,1,1
+60,Female,Hypothyroidism,No,No,No,No,High,High,3.75,5,5,5,5,5,5,1,5,5,5,5,2,2,1,1,3
+60,Female,Kidney Cancer,Yes,Yes,Yes,No,High,Normal,3,5,2,4,4,2,1,1,1,2,4,4,4,2,4,4,4
+60,Female,Kidney Cancer,Yes,Yes,Yes,Yes,High,High,3.75,5,1,4,5,4,4,4,4,4,4,4,4,1,4,4,4
+60,Male,Osteoporosis,Yes,No,Yes,No,High,Normal,2.4375,2,2,2,2,2,3,3,3,3,2,3,3,3,2,2,2
+60,Female,Diabetes,Yes,Yes,Yes,No,High,Normal,4.25,5,4,4,5,1,4,4,4,4,5,5,5,4,4,5,5
+60,Male,Alzheimer's Disease,Yes,Yes,No,No,High,Normal,4.8125,5,5,5,5,5,4,5,5,5,5,5,5,3,5,5,5
+60,Male,Alzheimer's Disease,Yes,Yes,No,No,High,Normal,2.0625,1,1,1,1,1,1,3,3,3,1,1,4,3,3,3,3
+60,Female,Depression,No,No,Yes,No,Normal,Normal,2.4375,2,2,2,2,4,4,4,4,4,2,1,1,1,2,2,2
+60,Female,Alzheimer's Disease,No,No,Yes,No,High,High,2.5,2,1,1,2,4,2,2,2,2,2,2,5,4,3,3,3
+60,Female,Kidney Cancer,No,No,Yes,No,High,High,1.5,3,1,1,1,1,1,2,4,1,2,1,1,1,1,1,2
+60,Female,Tuberculosis,Yes,Yes,Yes,No,High,High,1.3125,1,1,1,2,1,1,1,1,1,2,1,1,1,2,2,2
+65,Male,Liver Cancer,No,No,Yes,No,Normal,Normal,2.625,5,4,1,5,4,1,1,2,1,1,4,2,2,4,4,1
+65,Male,Diabetes,No,No,Yes,No,Normal,High,2.125,1,1,5,2,1,5,1,5,1,2,2,1,1,2,1,3
+65,Male,HIV/AIDS,Yes,Yes,Yes,No,Normal,Normal,2.875,2,5,1,2,1,4,4,4,5,3,1,1,4,3,3,3
+65,Female,Stroke,Yes,No,Yes,No,High,Low,1.8125,1,2,2,2,2,1,1,2,1,2,2,4,1,2,2,2
+65,Female,Stroke,Yes,No,Yes,No,High,Low,2.375,3,3,1,3,1,1,1,3,3,3,1,3,3,3,3,3
+65,Male,Tourette Syndrome,No,No,Yes,No,High,High,2.6875,2,3,3,3,3,2,2,3,3,3,2,2,3,3,3,3
+65,Male,Cholera,Yes,No,Yes,No,High,Normal,2.75,1,4,1,3,1,5,5,1,5,3,4,1,1,3,3,3
+65,Male,Alzheimer's Disease,No,Yes,No,No,Normal,High,1.1875,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2
+65,Male,Alzheimer's Disease,No,Yes,No,No,Normal,High,2.25,1,1,4,2,1,1,2,2,1,3,3,3,3,3,3,3
+65,Female,Alzheimer's Disease,No,No,Yes,No,High,High,1.9375,2,2,2,4,1,1,1,1,1,3,2,2,3,2,2,2
+65,Male,Bronchitis,Yes,No,Yes,Yes,High,High,2.8125,4,5,4,1,4,4,1,4,4,4,2,1,4,1,1,1
+65,Female,Depression,Yes,No,Yes,Yes,High,High,2.9375,1,2,4,4,4,4,1,4,4,1,4,4,4,4,1,1
+65,Female,Depression,Yes,No,Yes,Yes,High,High,3.75,5,5,4,1,5,4,5,5,3,2,5,5,2,3,3,3
+65,Female,Dementia,No,No,Yes,No,High,High,2.125,1,1,1,1,1,2,1,2,1,1,4,2,4,4,4,4
+65,Female,Diabetes,Yes,Yes,Yes,No,Normal,High,3.3125,4,4,4,4,4,4,4,4,1,2,4,1,3,4,4,2
+65,Female,Diverticulitis,No,No,Yes,No,High,High,2,2,2,2,1,3,1,3,3,1,2,1,1,3,3,1,3
+65,Female,Liver Cancer,Yes,Yes,Yes,No,High,High,1.875,1,2,2,2,1,1,1,1,1,2,4,4,1,1,3,3
+65,Female,Liver Cancer,Yes,Yes,Yes,No,High,High,2.375,1,1,1,2,2,1,3,1,4,3,3,3,4,3,3,3
+65,Female,Liver Cancer,Yes,No,Yes,No,Normal,High,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+65,Male,Cholera,No,No,Yes,No,Normal,High,1.8125,1,1,2,1,2,2,3,3,1,3,1,1,1,1,3,3
+65,Male,Cholera,No,No,Yes,No,Normal,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+65,Female,Osteoporosis,No,Yes,Yes,No,High,High,2.4375,3,2,2,2,3,2,3,2,3,2,3,2,3,2,3,2
+65,Female,Stroke,Yes,Yes,Yes,No,High,High,4.4375,5,5,5,5,5,5,5,5,5,4,5,1,1,5,5,5
+70,Female,Alzheimer's Disease,Yes,No,Yes,No,High,Normal,2.4375,4,4,2,2,1,5,5,4,5,1,1,1,1,1,1,1
+70,Female,Alzheimer's Disease,Yes,No,Yes,No,High,Normal,1.4375,1,1,1,2,1,1,1,1,1,1,1,1,3,2,3,2
+70,Male,Cholecystitis,No,No,Yes,No,Normal,Normal,2.25,3,2,2,2,2,2,2,2,2,2,2,3,3,3,2,2
+70,Male,Depression,No,Yes,Yes,Yes,Normal,High,2.4375,1,3,3,3,3,1,1,2,2,2,2,4,3,3,3,3
+70,Male,Diabetes,No,Yes,Yes,Yes,Normal,High,1.75,2,2,2,2,1,1,2,2,1,2,1,2,2,2,2,2
+70,Male,Osteoporosis,Yes,No,No,No,Normal,Normal,1.875,1,2,1,2,1,3,2,2,2,2,2,1,3,2,2,2
+70,Male,Alzheimer's Disease,No,No,Yes,No,Normal,Normal,1.5625,2,2,2,1,2,1,1,2,1,1,1,1,1,1,3,3
+70,Male,Osteoporosis,Yes,Yes,No,No,High,Normal,1.75,1,1,1,1,1,1,1,2,2,1,4,2,1,1,4,4
+70,Male,Schizophrenia,No,Yes,Yes,No,Normal,Normal,2.375,1,3,3,3,1,2,2,2,1,2,4,4,4,1,4,1
+70,Female,Gout,Yes,No,Yes,No,Normal,High,1.625,1,1,1,1,1,1,1,4,4,1,1,5,1,1,1,1
+70,Female,Migraine,No,No,Yes,No,Normal,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+70,Male,Stroke,No,Yes,No,No,Normal,High,3.625,4,4,4,4,4,4,1,1,4,4,4,4,4,4,4,4
+70,Male,Stroke,No,Yes,No,No,Normal,High,2.1875,1,1,1,1,1,4,2,1,4,4,4,4,1,1,4,1
+70,Female,Kidney Cancer,No,No,Yes,No,High,High,2.75,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+70,Female,Tonsillitis,Yes,Yes,Yes,No,High,High,1.5,1,1,1,2,1,2,2,1,1,2,1,1,2,2,2,2
+70,Female,Williams Syndrome,No,No,Yes,No,Normal,Normal,1.9375,1,2,4,4,2,1,2,1,1,3,2,1,4,1,1,1
+80,Female,Stroke,Yes,No,Yes,No,High,High,2.1875,1,4,1,4,4,1,1,1,1,4,4,4,2,1,1,1
+80,Female,Stroke,Yes,No,Yes,No,High,High,4.4375,5,5,4,4,5,5,5,5,5,1,5,5,4,4,5,4
+85,Male,Stroke,Yes,No,Yes,No,High,High,2.5625,3,3,3,3,3,1,3,3,3,1,1,4,1,3,3,3
+85,Male,Stroke,Yes,No,Yes,No,High,High,2.125,1,1,4,1,1,4,1,1,4,1,1,4,4,2,2,2
+90,Female,Stroke,Yes,No,Yes,No,High,High,4.875,5,5,5,6,5,5,5,5,5,5,5,4,4,5,4,5
+90,Female,Stroke,Yes,No,Yes,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+19,Female,Migraine,Yes,No,Yes,Yes,Low,Normal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+25,Female,Migraine,No,Yes,Yes,No,Normal,Normal,1.4375,2,1,2,1,2,2,1,2,1,2,1,1,1,1,2,1
+25,Female,Eczema,No,Yes,Yes,No,Normal,Normal,2.5,1,1,2,2,2,4,4,4,4,1,4,4,1,2,2,2
+25,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,2.3125,2,4,1,1,2,4,1,1,4,1,1,4,5,4,1,1
+25,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,3.0625,4,1,1,2,1,5,5,5,5,2,5,5,5,1,1,1
+25,Female,Eczema,Yes,No,No,No,Normal,Normal,2.6875,2,3,4,1,1,4,2,3,3,3,3,4,2,3,2,3
+25,Female,Migraine,Yes,Yes,Yes,Yes,Normal,Normal,2.5625,3,3,3,3,3,2,2,2,2,2,2,2,4,2,3,3
+25,Female,Migraine,Yes,Yes,Yes,Yes,Normal,Normal,1.8125,1,1,1,1,1,1,2,4,4,1,4,4,1,1,1,1
+28,Female,Hypothyroidism,No,Yes,No,No,Normal,Normal,2.75,1,3,3,3,3,1,3,3,1,3,3,5,3,3,3,3
+28,Female,Hypothyroidism,No,Yes,No,No,Normal,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+28,Male,Asthma,Yes,No,No,Yes,High,Normal,1.8125,1,1,1,3,1,4,1,1,4,1,1,1,2,2,2,3
+35,Female,Eczema,No,Yes,Yes,No,Normal,Low,2.5,5,4,1,1,1,5,4,4,4,3,1,1,1,1,2,2
+35,Female,Cholera,Yes,No,Yes,No,High,Normal,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+35,Female,Cholera,Yes,No,Yes,No,High,Normal,4.75,5,4,5,5,5,4,4,5,4,5,5,5,5,5,5,5
+35,Male,Cholera,No,Yes,Yes,No,High,High,3.625,1,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+35,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,2.75,1,4,4,2,2,3,3,2,3,5,3,3,3,2,2,2
+35,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,1.5,4,1,1,2,1,1,2,1,1,1,2,1,1,1,2,2
+35,Female,Cirrhosis,No,No,Yes,No,Normal,High,3.5,4,4,1,2,4,5,4,5,5,4,4,4,4,2,2,2
+35,Female,Conjunctivitis (Pink Eye),No,Yes,No,No,High,High,1.875,1,2,2,2,1,4,2,1,1,2,2,2,2,2,2,2
+35,Female,Depression,No,No,Yes,No,Normal,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+35,Male,Kidney Cancer,Yes,No,Yes,Yes,Low,High,2.4375,1,1,4,3,2,4,4,1,2,2,1,4,4,2,2,2
+35,Male,Hypothyroidism,Yes,Yes,Yes,No,High,High,2.625,1,4,1,2,1,1,1,1,4,2,4,4,4,4,4,4
+42,Female,Cholera,No,Yes,Yes,Yes,Normal,High,3.0625,4,4,1,4,4,4,4,4,4,1,4,4,1,4,1,1
+42,Male,Diabetes,Yes,Yes,Yes,No,High,Normal,1.9375,1,2,3,2,2,1,1,2,1,3,3,2,2,2,2,2
+42,Female,Hypothyroidism,Yes,Yes,Yes,No,High,High,2.1875,2,2,2,2,2,3,3,2,2,2,2,2,3,2,2,2
+42,Female,Hypothyroidism,Yes,Yes,Yes,No,High,High,2.6875,3,2,3,3,3,2,3,3,1,3,3,2,3,3,3,3
+42,Female,Kidney Cancer,Yes,No,Yes,No,High,Low,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+43,Female,Bronchitis,No,Yes,Yes,Yes,High,Normal,1.75,1,1,2,2,1,1,1,1,4,1,2,1,1,2,4,3
+45,Male,Asthma,No,Yes,Yes,No,High,Normal,2.0625,1,2,2,3,1,1,3,3,2,2,2,1,1,3,3,3
+45,Male,Autism Spectrum Disorder (ASD),No,No,Yes,No,Normal,Normal,2.1875,2,2,3,2,2,2,2,2,2,2,3,3,2,2,2,2
+45,Male,Bronchitis,Yes,No,Yes,No,High,Normal,2.0625,2,3,3,2,1,1,2,1,1,2,2,2,2,3,3,3
+45,Female,HIV/AIDS,Yes,No,Yes,No,High,High,2.625,4,2,2,2,2,4,1,1,4,1,1,5,5,3,2,3
+45,Female,HIV/AIDS,Yes,No,Yes,No,High,High,2.75,3,3,3,3,3,3,3,3,1,1,3,3,3,3,3,3
+45,Male,Hypothyroidism,No,No,Yes,No,Normal,Normal,2.8125,3,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Male,Kidney Cancer,No,Yes,Yes,Yes,Normal,Low,3.125,3,3,3,3,3,4,4,4,4,3,3,3,1,3,3,3
+45,Male,Kidney Cancer,Yes,Yes,No,No,Normal,High,2.5,3,3,1,3,3,4,3,4,1,1,2,2,2,2,3,3
+45,Male,Eczema,Yes,No,Yes,No,High,Normal,1.5625,1,1,1,2,2,2,1,1,1,1,1,1,3,2,2,3
+45,Female,Migraine,No,No,No,No,Low,Normal,2.4375,4,1,4,3,2,4,4,2,1,2,1,1,1,3,3,3
+45,Male,Kidney Cancer,No,No,Yes,No,Normal,Normal,2.25,1,1,1,1,1,4,2,1,1,2,4,4,4,4,4,1
+45,Male,Diabetes,No,Yes,Yes,Yes,Normal,Low,2.25,1,1,2,2,2,2,2,2,3,3,2,2,3,3,3,3
+45,Male,Bronchitis,Yes,No,No,No,Normal,Normal,2.125,3,1,1,2,2,4,2,2,1,3,2,2,1,2,3,3
+45,Male,Stroke,No,No,Yes,No,Normal,Normal,1.6875,1,1,1,2,1,3,1,2,3,2,2,1,1,2,2,2
+45,Male,Cholera,No,No,Yes,No,High,High,2.25,2,1,3,3,3,4,4,4,3,2,1,1,1,1,1,2
+45,Male,Cholera,No,No,Yes,No,High,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Female,Cholera,No,No,No,No,High,Normal,5,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,4
+45,Female,Cholera,No,Yes,Yes,No,High,High,2.4375,1,3,3,3,3,1,2,2,3,3,3,2,1,3,3,3
+45,Female,Cholera,No,Yes,Yes,No,High,High,1.875,2,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2
+45,Male,Asthma,Yes,Yes,Yes,No,High,Normal,4.25,5,5,5,5,1,5,5,5,5,5,5,1,5,1,5,5
+45,Male,Depression,Yes,Yes,Yes,No,High,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,1.9375,1,1,2,2,2,4,2,2,1,2,3,1,1,2,2,3
+45,Male,Asthma,Yes,Yes,No,Yes,Normal,Normal,1.75,2,2,1,2,2,2,2,2,2,2,2,1,2,1,1,2
+45,Female,Cataracts,No,No,Yes,No,Normal,High,2.3125,1,2,1,2,1,1,2,4,4,1,4,1,4,4,4,1
+45,Female,Bronchitis,No,No,Yes,No,High,High,2.0625,1,2,2,3,2,1,2,1,1,3,3,1,2,3,3,3
+45,Female,Bronchitis,Yes,Yes,Yes,No,High,High,2.625,4,4,2,2,1,4,4,1,4,1,4,4,1,1,4,1
+45,Female,Depression,No,No,Yes,No,High,High,1.5,1,2,1,3,1,4,1,1,1,1,2,1,2,1,1,1
+45,Female,Diabetes,Yes,No,Yes,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+45,Male,Diabetes,No,Yes,Yes,No,Normal,High,1.6875,1,4,1,1,1,3,3,3,3,1,1,1,1,1,1,1
+45,Male,Hypothyroidism,Yes,No,Yes,No,Normal,High,2.6875,4,1,1,4,1,5,5,5,5,1,2,1,3,2,1,2
+45,Female,Hypothyroidism,No,No,Yes,No,High,High,2.625,4,1,1,1,4,4,4,4,4,3,1,2,3,2,2,2
+45,Female,HIV/AIDS,Yes,Yes,Yes,No,Normal,High,1.3125,1,1,2,3,1,1,1,1,1,1,1,1,1,1,2,2
+45,Female,Hypothyroidism,Yes,No,No,No,High,High,2.125,1,4,1,1,1,4,4,4,4,1,4,1,1,1,1,1
+45,Female,Hypothyroidism,Yes,No,No,No,High,High,2.4375,1,1,2,3,1,5,4,1,4,2,1,5,2,2,2,3
+45,Male,Osteoporosis,Yes,No,Yes,Yes,High,Normal,3.75,1,4,4,2,4,5,5,5,5,4,4,4,1,4,4,4
+45,Female,Osteoporosis,Yes,Yes,Yes,No,Normal,High,1.3125,1,1,1,1,1,1,2,1,1,1,2,1,1,2,2,2
+45,Female,Bronchitis,Yes,Yes,Yes,No,High,High,4.5625,4,4,4,5,5,5,4,5,5,5,5,5,4,4,4,5
+45,Male,Bronchitis,Yes,Yes,Yes,Yes,High,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+45,Female,Scoliosis,No,No,No,No,High,High,2.4375,4,3,3,3,2,2,1,1,1,2,2,4,3,2,3,3
+45,Female,Sickle Cell Anemia,No,No,Yes,No,Normal,Normal,1.0625,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+45,Male,Cholera,No,No,Yes,No,Normal,High,2,1,1,1,1,1,1,2,1,4,1,1,4,4,3,3,3
+45,Male,Cholera,No,No,Yes,No,Normal,High,1.875,2,1,2,3,1,4,1,1,1,1,1,4,2,3,2,1
+48,Female,Hypothyroidism,No,No,Yes,No,Low,High,2.875,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,3
+48,Male,Hypothyroidism,No,No,Yes,No,Normal,High,2.125,1,1,2,3,1,2,1,2,2,3,2,3,2,3,3,3
+48,Male,Hypothyroidism,No,No,Yes,No,Normal,High,1.5625,1,4,4,1,1,1,1,1,1,1,1,4,1,1,1,1
+50,Male,Asthma,Yes,No,No,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+50,Male,Alzheimer's Disease,No,No,Yes,No,Normal,Normal,3.625,3,5,3,5,5,5,3,1,5,3,3,3,5,3,3,3
+50,Male,Depression,No,No,Yes,No,Normal,Normal,2.75,2,1,4,1,4,4,1,4,4,1,4,4,1,1,4,4
+50,Female,Cholera,Yes,No,Yes,Yes,High,High,2.75,4,1,1,5,1,1,1,4,4,1,4,4,4,4,4,1
+50,Female,Cholera,Yes,No,Yes,Yes,High,High,1.625,1,2,1,3,1,1,2,1,2,2,2,1,2,1,1,3
+50,Male,Bronchitis,Yes,Yes,Yes,No,Normal,High,2.0625,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+50,Male,Bronchitis,No,No,Yes,No,Normal,High,2.0625,1,1,1,1,4,4,4,1,1,2,2,4,1,2,2,2
+50,Female,Depression,No,Yes,Yes,No,Low,Low,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,6,5
+50,Male,Diabetes,No,Yes,No,No,Normal,High,2.4375,4,1,1,1,1,5,4,5,4,4,1,4,1,1,1,1
+50,Male,Endometriosis,Yes,No,No,No,High,Normal,2.9375,4,4,4,4,4,4,2,2,2,2,2,2,2,3,3,3
+50,Female,Hypothyroidism,No,Yes,No,No,Normal,Low,1.375,1,1,1,3,1,1,1,1,1,1,1,1,2,2,2,2
+50,Male,Hypothyroidism,Yes,Yes,Yes,No,Normal,High,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+50,Male,Kidney Cancer,No,Yes,No,No,Low,High,1.8125,1,1,2,1,1,2,2,2,1,2,2,2,2,2,3,3
+50,Male,Kidney Cancer,No,Yes,No,Yes,Normal,Normal,1.875,4,2,2,1,2,1,2,2,2,2,1,1,2,2,2,2
+65,Male,Bronchitis,Yes,No,Yes,Yes,High,High,2.8125,4,5,4,1,4,4,1,4,4,4,2,1,4,1,1,1
+65,Female,Diabetes,Yes,No,Yes,Yes,High,High,2.9375,1,2,4,4,4,4,1,4,4,1,4,4,4,4,1,1
+65,Female,Diabetes,Yes,No,Yes,Yes,High,High,3.75,5,5,4,1,5,4,5,5,3,2,5,5,2,3,3,3
+65,Female,Dementia,No,No,Yes,No,High,High,2.125,1,1,1,1,1,2,1,2,1,1,4,2,4,4,4,4
+65,Female,Diabetes,Yes,Yes,Yes,No,Normal,High,3.3125,4,4,4,4,4,4,4,4,1,2,4,1,3,4,4,2
+65,Female,Diverticulitis,No,No,Yes,No,High,High,2,2,2,2,1,3,1,3,3,1,2,1,1,3,3,1,3
+65,Female,Liver Cancer,Yes,Yes,Yes,No,High,High,1.875,1,2,2,2,1,1,1,1,1,2,4,4,1,1,3,3
+65,Female,Liver Cancer,Yes,Yes,Yes,No,High,High,2.375,1,1,1,2,2,1,3,1,4,3,3,3,4,3,3,3
+65,Female,Liver Cancer,Yes,No,Yes,No,Normal,High,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+65,Male,Cholera,No,No,Yes,No,Normal,High,1.8125,1,1,2,1,2,2,3,3,1,3,1,1,1,1,3,3
+65,Male,Cholera,No,No,Yes,No,Normal,High,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+65,Female,Osteoporosis,No,Yes,Yes,No,High,High,2.4375,3,2,2,2,3,2,3,2,3,2,3,2,3,2,3,2
+65,Female,Stroke,Yes,Yes,Yes,No,High,High,4.4375,5,5,5,5,5,5,5,5,5,4,5,1,1,5,5,5
+70,Female,Alzheimer's Disease,Yes,No,Yes,No,High,Normal,2.4375,4,4,2,2,1,5,5,4,5,1,1,1,1,1,1,1
+70,Female,Alzheimer's Disease,Yes,No,Yes,No,High,Normal,1.4375,1,1,1,2,1,1,1,1,1,1,1,1,3,2,3,2
+70,Male,Cholecystitis,No,No,Yes,No,Normal,Normal,2.25,3,2,2,2,2,2,2,2,2,2,2,3,3,3,2,2
+70,Male,Diabetes,No,Yes,Yes,Yes,Normal,High,2.4375,1,3,3,3,3,1,1,2,2,2,2,4,3,3,3,3
+70,Male,Diabetes,No,Yes,Yes,Yes,Normal,High,1.75,2,2,2,2,1,1,2,2,1,2,1,2,2,2,2,2
+70,Male,Osteoporosis,Yes,No,No,No,Normal,Normal,1.875,1,2,1,2,1,3,2,2,2,2,2,1,3,2,2,2
+70,Male,Alzheimer's Disease,No,No,Yes,No,Normal,Normal,1.5625,2,2,2,1,2,1,1,2,1,1,1,1,1,1,3,3
+70,Male,Osteoporosis,Yes,Yes,No,No,High,Normal,1.75,1,1,1,1,1,1,1,2,2,1,4,2,1,1,4,4
+70,Male,Schizophrenia,No,Yes,Yes,No,Normal,Normal,2.375,1,3,3,3,1,2,2,2,1,2,4,4,4,1,4,1
+70,Female,Gout,Yes,No,Yes,No,Normal,High,1.625,1,1,1,1,1,1,1,4,4,1,1,5,1,1,1,1
+70,Female,Migraine,No,No,Yes,Yes,Normal,Normal,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+70,Male,Stroke,No,Yes,No,No,Normal,High,3.625,4,4,4,4,4,4,1,1,4,4,4,4,4,4,4,4
+70,Male,Stroke,No,Yes,No,No,Normal,High,2.1875,1,1,1,1,1,4,2,1,4,4,4,4,1,1,4,1
+70,Female,Kidney Cancer,No,No,Yes,No,High,High,2.75,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+70,Female,Tonsillitis,Yes,Yes,Yes,No,High,High,1.5,1,1,1,2,1,2,2,1,1,2,1,1,2,2,2,2
+70,Female,Williams Syndrome,No,No,Yes,No,Normal,Normal,1.9375,1,2,4,4,2,1,2,1,1,3,2,1,4,1,1,1
+80,Female,Stroke,Yes,Yes,Yes,No,High,High,2.1875,1,4,1,4,4,1,1,1,1,4,4,4,2,1,1,1
+80,Female,Stroke,Yes,No,Yes,No,High,High,4.4375,5,5,4,4,5,5,5,5,5,1,5,5,4,4,5,4
+85,Male,Stroke,Yes,Yes,Yes,No,High,High,2.5625,3,3,3,3,3,1,3,3,3,1,1,4,1,3,3,3
+85,Male,Stroke,Yes,No,Yes,No,High,High,2.125,1,1,4,1,1,4,1,1,4,1,1,4,4,2,2,2
+90,Female,Stroke,Yes,No,Yes,No,High,High,4.875,5,6,5,5,5,5,5,5,5,5,5,4,4,5,4,5
+90,Female,Stroke,Yes,No,Yes,No,High,High,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+19,Female,Migraine,Yes,No,Yes,Yes,High,Normal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
