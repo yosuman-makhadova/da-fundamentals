@@ -30,7 +30,10 @@ This project is a completed university assignment focused on analyzing hospital 
 ```text
 project/
 ├── README.md
+├── Fund DA.ipynb
+├── data.csv
 └── Fundamentals_of_Data_Analytics_Assignment__Yosuman_Makhadova.pdf
+
 ```
 
 ## What I Learned
